@@ -1,10 +1,13 @@
 {
   "name": "@acadian-ambulance/acadian-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Common functions and types for react and typescript",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "dependencies": {
+  "peerDependencies": {
+    "react": ">=16.0"
+  },
+  "devDependencies": {
     "@types/react": "^16.9.36",
     "react": "^16.13.1"
   },
