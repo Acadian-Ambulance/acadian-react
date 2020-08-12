@@ -1,6 +1,6 @@
 {
   "name": "@acadian-ambulance/acadian-react",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Common functions and types for react and typescript",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
